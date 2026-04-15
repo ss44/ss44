@@ -64,7 +64,6 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 
 ## 🌱 Latest from my Digital Garden
 
-* [**Architecting Live Events: Charity Tournaments & Broadcast Infrastructure**](https://ss44.ca/notes/2026-04-12-charity-broadcast-infrastructure/) - Apr 12, 2026
 * [**Hire A Golfer**](https://ss44.ca/notes/2026-04-10-hire-a-golfer/) - Apr 10, 2026
 * [**SS44.ca: Building a Resume as Code**](https://ss44.ca/notes/2026-04-07-ss44-ca/) - Apr 6, 2026
 * [**Sathi.ai: A Multi-Provider AI Desktop Client**](https://ss44.ca/notes/2026-04-06-sathi.ai/) - Apr 6, 2026
