@@ -69,6 +69,34 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 * [**Sathi.ai: A Multi-Provider AI Desktop Client**](https://ss44.ca/notes/2026-04-06-sathi.ai/) - Apr 6, 2026
 * [**2026 Whats In The Home Lab**](https://ss44.ca/notes/2026-home-lab/) - Apr 5, 2026
 
+## 🧑‍🚀 /whoami
+
+
+  
+  
+  
+### XML, JSON, or YAML?
+> YAML is just Python without the commitment, and JSON is just XML that finally went to therapy.
+
+  
+### Why do developers love dark mode so much?
+> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
+
+  
+### Tabs or Spaces?
+> Spaces are only favored by people who like to increase their character count.
+
+  
+### VIM Or Emacs
+> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
+
+  
+### Do you like mechanical keyboards?
+> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+
+  
+
+
 ## 🔗 Quick Links
 
 * [Github](https://github.com/ss44)
