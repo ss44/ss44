@@ -64,6 +64,7 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 
 ## 🌱 Latest from my Digital Garden
 
+* [**HP Spectre Tablet Mode: Bridging Niri, CachyOS, and Waydroid**](https://ss44.ca/notes/2026-04-23-hp-spectre-tablet-mode-on-cachyos-niri/) - Apr 23, 2026
 * [**Hire A Golfer**](https://ss44.ca/notes/2026-04-10-hire-a-golfer/) - Apr 10, 2026
 * [**SS44.ca: Building a Resume as Code**](https://ss44.ca/notes/2026-04-07-ss44-ca/) - Apr 6, 2026
 * [**Sathi.ai: A Multi-Provider AI Desktop Client**](https://ss44.ca/notes/2026-04-06-sathi.ai/) - Apr 6, 2026
@@ -75,24 +76,25 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
   
   
   
+### Why do developers love dark mode so much?
+> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
+
+  
 ### XML, JSON, or YAML?
 > YAML is just Python without the commitment, and JSON is just XML that finally went to therapy.
 
   
-### Why do developers love dark mode so much?
-> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
+### What's your take on container orchestration?
+
+> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
 
   
 ### Tabs or Spaces?
 > Spaces are only favored by people who like to increase their character count.
 
   
-### VIM Or Emacs
-> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
-
-  
-### Do you like mechanical keyboards?
-> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+### How do you feel about modern development tools like AI?
+> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
 
   
 
