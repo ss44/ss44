@@ -65,10 +65,10 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 ## 🌱 Latest from my Digital Garden
 
 * [**HP Spectre Tablet Mode: Bridging Niri, CachyOS, and Waydroid**](https://ss44.ca/notes/2026-04-23-hp-spectre-tablet-mode-on-cachyos-niri/) - Apr 23, 2026
+* [**Interview Prep vs Reality: The Kryptonite Reflex**](https://ss44.ca/notes/2026-04-21-interview-kryptonite/) - Apr 21, 2026
 * [**Hire A Golfer**](https://ss44.ca/notes/2026-04-10-hire-a-golfer/) - Apr 10, 2026
 * [**SS44.ca: Building a Resume as Code**](https://ss44.ca/notes/2026-04-07-ss44-ca/) - Apr 6, 2026
 * [**Sathi.ai: A Multi-Provider AI Desktop Client**](https://ss44.ca/notes/2026-04-06-sathi.ai/) - Apr 6, 2026
-* [**2026 Whats In The Home Lab**](https://ss44.ca/notes/2026-home-lab/) - Apr 5, 2026
 
 ## 🧑‍🚀 /whoami
 
@@ -76,12 +76,13 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
   
   
   
-### VIM Or Emacs
-> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
+### How do you handle code documentation?
+> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
 
   
-### How do you feel about modern development tools like AI?
-> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
+### What's your take on container orchestration?
+
+> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
 
   
 ### What is your architectural philosophy?
@@ -89,8 +90,8 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 > Microservices are just a clever way to blame another team for outages.
 
   
-### How do you handle code documentation?
-> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
+### What Lessons Did You Learn From Star Wars
+> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
 
   
 ### XML, JSON, or YAML?
