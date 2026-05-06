@@ -64,11 +64,11 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 
 ## 🌱 Latest from my Digital Garden
 
+* [**Vibe Coding a Political Campaign: Mandeep For Ward 5**](https://ss44.ca/notes/2026-05-06-mandeep-for-ward5/) - May 6, 2026
 * [**HP Spectre Tablet Mode: Bridging Niri, CachyOS, and Waydroid**](https://ss44.ca/notes/2026-04-23-hp-spectre-tablet-mode-on-cachyos-niri/) - Apr 23, 2026
 * [**Interview Prep vs Reality: The Kryptonite Reflex**](https://ss44.ca/notes/2026-04-21-interview-kryptonite/) - Apr 21, 2026
 * [**Hire A Golfer**](https://ss44.ca/notes/2026-04-10-hire-a-golfer/) - Apr 10, 2026
 * [**SS44.ca: Building a Resume as Code**](https://ss44.ca/notes/2026-04-07-ss44-ca/) - Apr 6, 2026
-* [**Sathi.ai: A Multi-Provider AI Desktop Client**](https://ss44.ca/notes/2026-04-06-sathi.ai/) - Apr 6, 2026
 
 ## 🧑‍🚀 /whoami
 
@@ -76,25 +76,24 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
   
   
   
-### Why do developers love dark mode so much?
-> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
-
-  
-### What is your architectural philosophy?
-
-> Microservices are just a clever way to blame another team for outages.
-
-  
 ### How do you feel about modern development tools like AI?
 > AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
 
   
-### XML, JSON, or YAML?
-> YAML is just Python without the commitment, and JSON is just XML that finally went to therapy.
+### VIM Or Emacs
+> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
 
   
-### How do you handle code documentation?
-> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
+### Tabs or Spaces?
+> Spaces are only favored by people who like to increase their character count.
+
+  
+### Do you like mechanical keyboards?
+> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+
+  
+### What Lessons Did You Learn From Star Wars
+> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
 
   
 
