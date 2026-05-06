@@ -13,8 +13,6 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
   <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-333333?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-333333?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-333333?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-333333?style=flat-square" alt="Java" />
 </p>
 
 ### Databases
@@ -80,16 +78,17 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 > Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
 
   
-### Tabs or Spaces?
-> Spaces are only favored by people who like to increase their character count.
-
-  
-### XML, JSON, or YAML?
-> YAML is just Python without the commitment, and JSON is just XML that finally went to therapy.
+### VIM Or Emacs
+> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
 
   
 ### What Lessons Did You Learn From Star Wars
 > The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
+
+  
+### What's your take on container orchestration?
+
+> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
 
   
 ### How do you handle code documentation?
