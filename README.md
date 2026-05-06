@@ -76,24 +76,24 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
   
   
   
-### How do you handle code documentation?
-> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
-
-  
-### VIM Or Emacs
-> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
+### Why do developers love dark mode so much?
+> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
 
   
 ### Tabs or Spaces?
 > Spaces are only favored by people who like to increase their character count.
 
   
+### XML, JSON, or YAML?
+> YAML is just Python without the commitment, and JSON is just XML that finally went to therapy.
+
+  
 ### What Lessons Did You Learn From Star Wars
 > The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
 
   
-### How do you feel about modern development tools like AI?
-> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
+### How do you handle code documentation?
+> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
 
   
 
