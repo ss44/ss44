@@ -1,8 +1,8 @@
 # Hi, I'm Shajinder Singh Padda 👋
 
-**Senior Systems Architect and Full Stack Developer**
+I'm a Senior Full Stack Web Developer with 20+ years of experience turning complex problems into scalable, secure web applications.
 
-Senior Systems Architect and Full Stack Developer with 20+ years of experience specializing in designing and scaling high-volume, security, and privacy-focused web applications.
+My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*), **PHP**, and SQL (**PostgreSQL, MySQL**). Ultimately, my real passion is building resilient systems that users love and developers enjoy maintaining.
 
 ## 🛠️ Skills & Technologies
 
@@ -74,15 +74,6 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
   
   
   
-### How do you feel about modern development tools like AI?
-> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
-
-  
-### What is your architectural philosophy?
-
-> Microservices are just a clever way to blame another team for outages.
-
-  
 ### VIM Or Emacs
 > Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
 
@@ -91,8 +82,17 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 > Spaces are only favored by people who like to increase their character count.
 
   
-### Why do developers love dark mode so much?
-> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
+### How do you handle code documentation?
+> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
+
+  
+### How do you feel about modern development tools like AI?
+> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
+
+  
+### What's your take on container orchestration?
+
+> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
 
   
 
