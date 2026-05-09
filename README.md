@@ -74,16 +74,8 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
   
   
   
-### What Lessons Did You Learn From Star Wars
-> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
-
-  
-### Why do developers love dark mode so much?
-> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
-
-  
-### Do you like mechanical keyboards?
-> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+### VIM Or Emacs
+> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
 
   
 ### What's your take on container orchestration?
@@ -91,8 +83,16 @@ Senior Systems Architect and Full Stack Developer with 20+ years of experience s
 > Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
 
   
-### How do you handle code documentation?
-> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
+### Do you like mechanical keyboards?
+> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+
+  
+### What Lessons Did You Learn From Star Wars
+> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
+
+  
+### Tabs or Spaces?
+> Spaces are only favored by people who like to increase their character count.
 
   
 
