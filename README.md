@@ -62,7 +62,7 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
 
 ## 🌱 Latest from my Digital Garden
 
-* [**Hockey, Momentum, and Adjustments (LinkedIn Post)**](https://ss44.ca/notes/2026-05-17-habs-linkedin-post/) - May 17, 2026
+* [**Hockey, Momentum, and Adjustments**](https://ss44.ca/notes/2026-05-17-habs-linkedin-post/) - May 17, 2026
 * [**So What's Your Experience With Prompt Engineering?**](https://ss44.ca/notes/2026-05-08-prompt-engineering-experience/) - May 8, 2026
 * [**HP Spectre Tablet Mode: Bridging Niri, CachyOS, and Waydroid**](https://ss44.ca/notes/2026-04-23-hp-spectre-tablet-mode-on-cachyos-niri/) - Apr 23, 2026
 * [**Interview Prep vs Reality: The Kryptonite Reflex**](https://ss44.ca/notes/2026-04-21-interview-kryptonite/) - Apr 21, 2026
@@ -74,26 +74,26 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
   
   
   
-### What is your architectural philosophy?
+### What's your take on container orchestration?
 
-> Microservices are just a clever way to blame another team for outages.
-
-  
-### How do you handle code documentation?
-> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
-
-  
-### Do you like mechanical keyboards?
-> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
 
   
 ### Why do developers love dark mode so much?
 > Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
 
   
-### What's your take on container orchestration?
+### What Lessons Did You Learn From Star Wars
+> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
 
-> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
+  
+### How do you feel about modern development tools like AI?
+> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
+
+  
+### What is your architectural philosophy?
+
+> Microservices are just a clever way to blame another team for outages.
 
   
 
