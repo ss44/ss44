@@ -7,6 +7,13 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
 ## 🛠️ Skills & Technologies
 
 
+### AI & Tooling
+<p>
+  <img src="https://img.shields.io/badge/LLM_API_Integration_(OpenAI,_Anthropic,_Gemini)-333333?style=flat-square" alt="LLM API Integration (OpenAI, Anthropic, Gemini)" />
+  <img src="https://img.shields.io/badge/AI--Assisted_Development_(Cursor,_Kilo)-333333?style=flat-square" alt="AI-Assisted Development (Cursor, Kilo)" />
+  <img src="https://img.shields.io/badge/Custom_Agent_Scripting-333333?style=flat-square" alt="Custom Agent Scripting" />
+</p>
+
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Ruby-333333?style=flat-square" alt="Ruby" />
@@ -52,13 +59,6 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
   <img src="https://img.shields.io/badge/Datadog-333333?style=flat-square" alt="Datadog" />
 </p>
 
-### AI & Tooling
-<p>
-  <img src="https://img.shields.io/badge/LLM_API_Integration_(OpenAI,_Anthropic,_Gemini)-333333?style=flat-square" alt="LLM API Integration (OpenAI, Anthropic, Gemini)" />
-  <img src="https://img.shields.io/badge/AI--Assisted_Development_(Cursor,_Kilo)-333333?style=flat-square" alt="AI-Assisted Development (Cursor, Kilo)" />
-  <img src="https://img.shields.io/badge/Custom_Agent_Scripting-333333?style=flat-square" alt="Custom Agent Scripting" />
-</p>
-
 
 ## 🌱 Latest from my Digital Garden
 
@@ -74,26 +74,24 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
   
   
   
-### What's your take on container orchestration?
-
-> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
+### VIM Or Emacs
+> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
 
   
-### Why do developers love dark mode so much?
-> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
+### How do you handle code documentation?
+> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
 
   
 ### What Lessons Did You Learn From Star Wars
 > The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
 
   
-### How do you feel about modern development tools like AI?
-> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
+### Tabs or Spaces?
+> Spaces are only favored by people who like to increase their character count.
 
   
-### What is your architectural philosophy?
-
-> Microservices are just a clever way to blame another team for outages.
+### XML, JSON, or YAML?
+> YAML is just Python without the commitment, and JSON is just XML that finally went to therapy.
 
   
 
