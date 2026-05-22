@@ -62,21 +62,17 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
 
 ## 🌱 Latest from my Digital Garden
 
+* [**What Happened To Pinterest?!**](https://ss44.ca/notes/2026-05-21-what-happened-to-pinterest/) - May 21, 2026
 * [**Hockey, Momentum, and Adjustments**](https://ss44.ca/notes/2026-05-17-habs-linkedin-post/) - May 17, 2026
 * [**So What's Your Experience With Prompt Engineering?**](https://ss44.ca/notes/2026-05-08-prompt-engineering-experience/) - May 8, 2026
 * [**HP Spectre Tablet Mode: Bridging Niri, CachyOS, and Waydroid**](https://ss44.ca/notes/2026-04-23-hp-spectre-tablet-mode-on-cachyos-niri/) - Apr 23, 2026
 * [**Interview Prep vs Reality: The Kryptonite Reflex**](https://ss44.ca/notes/2026-04-21-interview-kryptonite/) - Apr 21, 2026
-* [**Hire A Golfer**](https://ss44.ca/notes/2026-04-10-hire-a-golfer/) - Apr 10, 2026
 
 ## 🧑‍🚀 /whoami
 
 
   
   
-  
-### Why do developers love dark mode so much?
-> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
-
   
 ### What is your architectural philosophy?
 
@@ -87,12 +83,17 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
 > Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
 
   
-### How do you handle code documentation?
-> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
+### What Lessons Did You Learn From Star Wars
+> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
 
   
-### Tabs or Spaces?
-> Spaces are only favored by people who like to increase their character count.
+### Why do developers love dark mode so much?
+> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
+
+  
+### What's your take on container orchestration?
+
+> Kubernetes is just an elaborate, multi-layered coping mechanism for not wanting to write a `systemd` service file.
 
   
 
