@@ -62,11 +62,11 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
 
 ## 🌱 Latest from my Digital Garden
 
+* [**True Leadership: Sharing the Stage When You Win**](https://ss44.ca/notes/2026-06-18-leadership-mike-brown/) - Jun 18, 2026
 * [**What Happened To Pinterest?!**](https://ss44.ca/notes/2026-05-21-what-happened-to-pinterest/) - May 21, 2026
 * [**Hockey, Momentum, and Adjustments**](https://ss44.ca/notes/2026-05-17-habs-linkedin-post/) - May 17, 2026
 * [**So What's Your Experience With Prompt Engineering?**](https://ss44.ca/notes/2026-05-08-prompt-engineering-experience/) - May 8, 2026
 * [**HP Spectre Tablet Mode: Bridging Niri, CachyOS, and Waydroid**](https://ss44.ca/notes/2026-04-23-hp-spectre-tablet-mode-on-cachyos-niri/) - Apr 23, 2026
-* [**Interview Prep vs Reality: The Kryptonite Reflex**](https://ss44.ca/notes/2026-04-21-interview-kryptonite/) - Apr 21, 2026
 
 ## 🧑‍🚀 /whoami
 
@@ -74,24 +74,24 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
   
   
   
-### VIM Or Emacs
-> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
+### How do you feel about Legacy Code?
+> Legacy code is just another way of saying that its code that works in a language that new developers don't understand, so they push for upgrades that no one needs. Basically anything coded without a prompt is now legacy code. 
 
   
-### Do you like mechanical keyboards?
-> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+### Tabs or Spaces?
+> Spaces are only favored by people who like to increase their character count.
 
   
 ### How do you handle code documentation?
 > Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
 
   
-### XML, JSON, or YAML?
-> YAML is just Python without the commitment, and JSON is just XML that finally went to therapy.
-
-  
 ### How do you feel about modern development tools like AI?
 > AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
+
+  
+### Cloud Native or On-Prem?
+> Cloud native is just clever way to pay Bezos for more compute power for shipping diapers.
 
   
 
