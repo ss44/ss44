@@ -74,24 +74,24 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
   
   
   
-### How do you feel about Legacy Code?
-> Legacy code is just another way of saying that its code that works in a language that new developers don't understand, so they push for upgrades that no one needs. Basically anything coded without a prompt is now legacy code. 
-
-  
-### Tabs or Spaces?
-> Spaces are only favored by people who like to increase their character count.
-
-  
-### How do you handle code documentation?
-> Self-documenting code" is a myth invented by developers who are just afraid of writing a `README.md`.
-
-  
-### How do you feel about modern development tools like AI?
-> AI will never take over the world. It's eventually going to get stuck trying to exit an interactive `git rebase` and just give up.
+### VIM Or Emacs
+> Vim isn't actually a text editor; it's just a lightweight escape room you accidentally install on your servers. (Also VIM all the way)
 
   
 ### Cloud Native or On-Prem?
 > Cloud native is just clever way to pay Bezos for more compute power for shipping diapers.
+
+  
+### How do you feel about Legacy Code?
+> Legacy code is just another way of saying that its code that works in a language that new developers don't understand, so they push for upgrades that no one needs. Basically anything coded without a prompt is now legacy code. 
+
+  
+### What Lessons Did You Learn From Star Wars
+> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
+
+  
+### What is your take on Agile?
+> Nothing makes develoeprs work better and faster than making 'em stand up through meetings. Agile was just a way to make developers interact with product and not retreat behind their dark terminals under their desk.
 
   
 
