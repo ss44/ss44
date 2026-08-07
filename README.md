@@ -62,7 +62,7 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
 
 ## 🌱 Latest from my Digital Garden
 
-* [**Keepsake: Rescuing Your Children’s Memories from Brightwheel**](https://ss44.ca/notes/2026-08-06-keepsake/) - Aug 6, 2026
+* [**Keepsake: Saving Your Children’s Memories from Brightwheel**](https://ss44.ca/notes/2026-08-06-keepsake/) - Aug 6, 2026
 * [**True Leadership: Sharing the Stage When You Win**](https://ss44.ca/notes/2026-06-18-leadership-mike-brown/) - Jun 18, 2026
 * [**What Happened To Pinterest?!**](https://ss44.ca/notes/2026-05-21-what-happened-to-pinterest/) - May 21, 2026
 * [**Hockey, Momentum, and Adjustments**](https://ss44.ca/notes/2026-05-17-habs-linkedin-post/) - May 17, 2026
@@ -78,20 +78,20 @@ My core expertise lies in **Ruby**, **JavaScript** (*TypeScript, React, VueJS*),
 > Cloud native is just clever way to pay Bezos for more compute power for shipping diapers.
 
   
-### Why do developers love dark mode so much?
-> Dark mode doesn't actually make you a 10x developer, it just helps hide the bags under your eyes during morning meetings.
-
-  
-### What Lessons Did You Learn From Star Wars
-> The DeathStar failed because QA and Engineering figured that the design bug was too much of an edge case worth worrying about.
-
-  
 ### How do you handle conflict with your team?
 > I remind them that I'm smarter than they are and to just trust me bro. Then blame AI if it doesn't work out.
 
   
 ### What is your take on Agile?
 > Nothing makes develoeprs work better and faster than making 'em stand up through meetings. Agile was just a way to make developers interact with product and not retreat behind their dark terminals under their desk.
+
+  
+### Do you like mechanical keyboards?
+> Mechanical keyboards are just incredibly loud adult fidget spinners. (And, I own several of them).
+
+  
+### How do you feel about Legacy Code?
+> Legacy code is just another way of saying that its code that works in a language that new developers don't understand, so they push for upgrades that no one needs. Basically anything coded without a prompt is now legacy code. 
 
   
 
